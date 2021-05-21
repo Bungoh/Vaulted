@@ -1,0 +1,11 @@
+name: Vaulted
+version: ${project.version}
+main: com.bungoh.vaulted.Vaulted
+api-version: 1.16
+authors: [ Bungoh ]
+description: Plugin that allows you to store items inside a Vault!
+
+commands:
+  openvault:
+    description: Open your personal vault!
+    aliases: [ov]
